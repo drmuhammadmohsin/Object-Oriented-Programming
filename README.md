@@ -5,8 +5,8 @@ OOP provides a modular and organized approach to programming by focusing on obje
 By learning OOP with C++, you'll gain a solid foundation in software development and be equipped to tackle complex programming challenges.
 ## Object-Oriented Programming pillars:
 
-1-Incapsulation
-2-Inheritance
-3-Polymorphism 
-4-Abstraction
+Incapsulation
+Inheritance
+Polymorphism 
+Abstraction
 
